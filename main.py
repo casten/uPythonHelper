@@ -150,10 +150,8 @@ class uPythonHelperUI:
 
         def show_menu(e):
             w = e.widget
-            the_menu.entryconfigure("Copy",
-                                    command=lambda: w.event_generate("<<Copy>>"))
-            the_menu.entryconfigure("Paste",
-                                    command=lambda: w.event_generate("<<Paste>>"))
+            the_menu.entryconfigure("Copy", command=lambda: w.event_generate("<<Copy>>"))
+            the_menu.entryconfigure("Paste", command=lambda: w.event_generate("<<Paste>>"))
             the_menu.tk.call("tk_popup", the_menu, e.x_root, e.y_root)
 
         make_menu(root)
