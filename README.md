@@ -7,6 +7,7 @@ This allows you to make changes to your uPython device.  If you delete your file
 ## Prerequisites ##
 * Python 3.6 (earlier versions might work)
 * Tkinter
+* serial-device2
 
 ## Functionality ##
 * Terminal Access
