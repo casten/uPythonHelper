@@ -1,6 +1,8 @@
 # uPythonHelper
 uPython Serial Communication Utility
 
+<img src="https://github.com/casten/uPythonHelper/blob/master/uPythonHelper.png?raw=true" height="400"/>
+
 ## Disclaimer ##
 This allows you to make changes to your uPython device's filesystem.  If you delete important files, you'll probably need to reflash your device. 
 
