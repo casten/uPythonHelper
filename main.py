@@ -23,7 +23,6 @@ import os
 
 if os.name == 'nt':
     import winreg
-
     sys.modules['_winreg'] = winreg
 
 # noinspection PyPep8
