@@ -2,7 +2,7 @@
 uPython Serial Communication Utility
 
 ## Disclaimer ##
-This allows you to make changes to your uPython device.  If you delete your files, you'll probably need to reflash your device. 
+This allows you to make changes to your uPython device's filesystem.  If you delete important files, you'll probably need to reflash your device. 
 
 ## Prerequisites ##
 * MicroPython - https://micropython.org/
