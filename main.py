@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+
+# main.py -- uPython Helper main file
+#
+# Copyright (C)2017 Casten Riepling
+#
+# This software may be modified and distributed under the terms
+# of the MIT license.  See the LICENSE file for details.
+
 from tkinter import *
 import tkinter.scrolledtext as tkst
 import sys
