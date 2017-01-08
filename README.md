@@ -5,8 +5,10 @@ uPython Serial Communication Utility
 This allows you to make changes to your uPython device.  If you delete your files, you'll probably need to reflash your device. 
 
 ## Prerequisites ##
-* Python 3.6 (earlier versions might work)
-* Tkinter
+* MicroPython - https://micropython.org/
+* Python 3.6 (earlier versions might work) - https://www.python.org/downloads/release/python-360/
+* Tkinter - https://wiki.python.org/moin/TkInter
+* serial-device2  - https://pypi.python.org/simple/serial-device2/
 
 ## Functionality ##
 * Terminal Access
